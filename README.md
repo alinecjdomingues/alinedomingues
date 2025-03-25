@@ -1,4 +1,3 @@
-# alinedomingues
 # Olá, eu sou Aline 👋
 
 Sou estudante de Sistemas para Internet na Fatec Lins 🎓. Tenho interesse em gestão de projetos.
